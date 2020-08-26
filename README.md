@@ -1,6 +1,6 @@
 
 ## Code for integrated Dictionary Learning+Neural Networks model introduced in https://link.springer.com/chapter/10.1007/978-3-030-32248-9_79
-![Dict-NN](https://github.com/Niharika-SD/Dict-NN/Images/Connectomics_and_Clinical_Severity_NN.PNG)
+![Dict-NN](https://github.com/Niharika-SD/Dict-NN/blob/master/Images/Connectomics_and_Clinical_Severity_NN.PNG)
 
 #INSTRUCTIONS
 
