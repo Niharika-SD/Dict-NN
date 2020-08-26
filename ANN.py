@@ -34,7 +34,7 @@ class ANN(nn.Module):
        #forward pass definiton
        
         out = self.dense1(x) 
-        out = self.nl(out)
+        out = self.nl1(out)
         out = self.dense2(out)
         out = self.dense3(out)   
         
